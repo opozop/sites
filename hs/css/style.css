@@ -14,6 +14,10 @@ body {
 span.navy {
   color: #1ab3F4;
 }
+span.text {
+  color: #ffff00;
+  background: rgba(8,32,149,0.65);
+}
 p.text-color {
   color: #676a6c;
 }
@@ -25,7 +29,7 @@ a.navy-link:hover {
   color: #17a185;
 }
 section p {
-  color: #4040FF;
+  color: #40408F;
   font-size: 16px;
 }
 address {

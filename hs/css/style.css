@@ -16,7 +16,7 @@ span.navy {
 }
 span.text {
   color: #ffff00;
-  background: rgba(8,32,149,0.65);
+  background: rgba(8,32,149,.65);
 }
 p.text-color {
   color: #676a6c;
@@ -83,7 +83,7 @@ h1 {
   font-family: 'Open Sans', helvetica, arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  
 }
 .navbar-nav > li > a {
   padding-top: 25px;
@@ -253,14 +253,14 @@ h1 {
 .carousel-caption h1 {
   font-weight: 700;
   font-size: 38px;
-  text-transform: uppercase;
+  
   text-shadow: none;
   letter-spacing: -1.5px;
-  background-color: rgba(8,32,149,0.65);
+  background-color: rgba(8,32,149,0.75);
 }
 .carousel-caption p {
   font-weight: 700;
-  text-transform: uppercase;
+  
   text-shadow: none;
 }
 .caption-link {
@@ -282,7 +282,7 @@ h1 {
   font-size: 20px;
   letter-spacing: -1px;
   font-weight: 600;
-  text-transform: uppercase;
+  
 }
 .features-block {
   margin-top: 40px;
